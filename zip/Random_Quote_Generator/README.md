@@ -1,5 +1,5 @@
 # Random Quote Generator
-<a href="https://nehasoni.hashnode.dev/random-quote-generator-using-html-css-and-javascript"> <img src="project_images/cover1.png" alt="blog post"></a>
+<a href="https://nehasoni.hashnode.dev/random-quote-generator-using-html-css-and-javascript"> <img src="1149853.jpg" alt="blog post"></a>
 ## Prerequisite
 - Basic knowledge of HTML
 - Basic knowledge of CSS
